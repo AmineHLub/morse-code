@@ -8,7 +8,7 @@ During your vacation at the seaside, time after time you find old bottles with p
 
 ## Getting Started
 
-- git clone git@github.com:aliabbani/decode-morse-message.git
+- clone git@github.com:AmineHLub/morse-code.git
 - cd decode-morse-message
 
 ## Run the application
