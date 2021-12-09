@@ -11,10 +11,13 @@ During your vacation at the seaside, time after time you find old bottles with p
 - git clone git@github.com:aliabbani/decode-morse-message.git
 - cd decode-morse-message
 
+## Run the application
+- ruby morse_code_decoder.rb
+
 ## Authors
 
 👤 **Henry Kc**
-## Henry's Profile
+
 - GitHub: [@githubhandle](https://github.com/henrykc24)
 - Twitter: [@twitterhandle](https://twitter.com/henrykc24)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/henry-kc)

@@ -26,3 +26,5 @@ def decode(str)
   end
   full_sentence_decoded.strip
 end
+
+print decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
