@@ -13,23 +13,24 @@ During your vacation at the seaside, time after time you find old bottles with p
 
 ## Authors
 
-👤 **Ali Abbani**
-## Ali's Profile
-- GitHub: [@githubhandle](https://github.com/aliabbani)
-- Twitter: [@twitterhandle](https://twitter.com/aliabbani)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-abbani-8b6246150/)
-
 👤 **Henry Kc**
 ## Henry's Profile
 - GitHub: [@githubhandle](https://github.com/henrykc24)
 - Twitter: [@twitterhandle](https://twitter.com/henrykc24)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/henry-kc)
 
+👤 **Mohamed Amine Hajltaief**
+
+- GitHub: [@AmineHLub](https://github.com/AmineHLub)
+- Twitter: [@Amino47612441](https://twitter.com/Amino47612441)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hajltaief-b18863163/)
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/aliabbani/decode-morse-message/issues).
+Feel free to check the [issues page](../../issues).
 
 ## Show your support
 
